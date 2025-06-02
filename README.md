@@ -21,3 +21,5 @@ _Mentors: [Nishant Singhal](https://github.com/NishantSinghal19), [Mabud Alam](h
 ### Link to work
 
 ### Weekly Reports
+These are the weekly reports (blogs) that I had submitted to and worked on  CCSync during GSoC period:
+1. [Community Bonding Period](https://abhishek31.medium.com/community-bonding-period-for-gsoc25-at-ccextractor-17ae178dbccd)
