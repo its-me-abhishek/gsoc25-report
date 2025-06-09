@@ -32,4 +32,4 @@ _Objective_: To migrate the core functionality of Firestore on frontend to work 
 ### Weekly Reports
 These are the weekly reports (blogs) that I had submitted to and worked on  CCSync during GSoC period:
 1. [Community Bonding Period](https://abhishek31.medium.com/community-bonding-period-for-gsoc25-at-ccextractor-17ae178dbccd)
-2. 
+2. [Week 1](https://abhishek31.medium.com/gsoc25-week-1-at-ccextractor-463a8674f513)
