@@ -18,9 +18,6 @@ _Mentors: [Nishant Singhal](https://github.com/NishantSinghal19), [Mabud Alam](h
 
 ### Work Track
 
-### Link to work
-
-
 1. Migrating Firestore to Browser based storage
 
 _Objective_: To migrate the core functionality of Firestore on frontend to work with IndexedDB instead. Replace all the Firestore based functions like sync, delete, add, fetch, update, etc. with similar IndexedDB Functionality
@@ -29,7 +26,32 @@ _Objective_: To migrate the core functionality of Firestore on frontend to work 
 |------------------|-------------|--------------|
 | Firestore migration | <ul><li>Migrate all Firestore functionality to similar IndexedDB functionality</li> <li>Update all unit tests to make them compatible with the latest database</li><li>Update all functions and components</li></ul> | [Link to work](https://github.com/CCExtractor/ccsync/pull/101) |
 
+2. Workflow for Testing Frontend
+   
+_Objective_: To ensure frontend unit tests are verified automatically through a GitHub Actions workflow.
+
+| Name of the Task | Description | Link to work |
+|------------------|-------------|--------------|
+| Workflow for testing Frontend | <ul><li>Add a testing workflow for frontend to check unit tests</li> <li>Change the flag in URL.ts to set for testing.</li></ul> | [Link to work](https://github.com/CCExtractor/ccsync/pull/103) |
+
+3. Docker Images Workflows
+
+_Objective_: To enable automated Docker image builds and pushing through CI/CD pipelines.
+
+| Name of the Task | Description | Link to work |
+|------------------|-------------|--------------|
+| Docker images workflows | <ul><li>Add workflows to build and push Docker images</li></ul> | [Link to work](https://github.com/CCExtractor/ccsync/pull/102) |
+
+4. Finalised Docker Production Workflow
+
+_Objective_: To set up a complete production-ready Docker environment and corresponding documentation.
+
+| Name of the Task | Description | Link to work |
+|------------------|-------------|--------------|
+| Finalised Docker Production Workflow | <ul><li>Upda .env files and production build for Docker images</li> <li>Update all documentation in ccsync-docs and readme</li></ul> | [Link to work](https://github.com/CCExtractor/ccsync/pull/104) |
+
 ### Weekly Reports
 These are the weekly reports (blogs) that I had submitted to and worked on  CCSync during GSoC period:
 1. [Community Bonding Period](https://abhishek31.medium.com/community-bonding-period-for-gsoc25-at-ccextractor-17ae178dbccd)
 2. [Week 1](https://abhishek31.medium.com/gsoc25-week-1-at-ccextractor-463a8674f513)
+3. [Week 2 & 3](https://abhishek31.medium.com/gsoc25-week-2-3-at-ccextractor-b292ab748a66)
