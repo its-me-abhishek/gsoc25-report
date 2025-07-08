@@ -50,6 +50,15 @@ _Objective_: To set up a complete production-ready Docker environment and corres
 |------------------|-------------|--------------|
 | Finalised Docker Production Workflow | <ul><li>Upda .env files and production build for Docker images</li> <li>Update all documentation in ccsync-docs and readme</li></ul> | [Link to work](https://github.com/CCExtractor/ccsync/pull/104) |
 
+5. Workflow for Testing Backend
+   
+_Objective_: To ensure backend unit tests are verified automatically through a GitHub Actions workflow.
+
+| Name of the Task | Description | Link to work |
+|------------------|-------------|--------------|
+| Workflow for testing Frontend | <ul><li>Add a testing workflow for backend to check unit tests</li></ul> | [Link to work](https://github.com/CCExtractor/ccsync/pull/105) |
+
+
 ### Weekly Reports
 These are the weekly reports (blogs) that I had submitted to and worked on  CCSync during GSoC period:
 1. [Community Bonding Period](https://abhishek31.medium.com/community-bonding-period-for-gsoc25-at-ccextractor-17ae178dbccd)
