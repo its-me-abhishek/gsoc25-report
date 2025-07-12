@@ -48,7 +48,7 @@ _Objective_: To set up a complete production-ready Docker environment and corres
 
 | Name of the Task | Description | Link to work |
 |------------------|-------------|--------------|
-| Finalised Docker Production Workflow | <ul><li>Upda .env files and production build for Docker images</li> <li>Update all documentation in ccsync-docs and readme</li></ul> | [Link to work](https://github.com/CCExtractor/ccsync/pull/104) |
+| Finalised Docker Production Workflow | <ul><li>Update .env files and production build for Docker images</li> <li>Update all documentation in ccsync-docs and readme</li></ul> | [Link to work](https://github.com/CCExtractor/ccsync/pull/104) |
 
 5. Workflow for Testing Backend
    
@@ -58,6 +58,13 @@ _Objective_: To ensure backend unit tests are verified automatically through a G
 |------------------|-------------|--------------|
 | Workflow for testing Frontend | <ul><li>Add a testing workflow for backend to check unit tests</li></ul> | [Link to work](https://github.com/CCExtractor/ccsync/pull/105) |
 
+6. Update Documentation
+
+_Objective_: To update documentation according to new setup for production, development, and using with the Taskwarrior Flutter app
+
+| Name of the Task | Description | Link to work |
+|------------------|-------------|--------------|
+| Updated Documentation | <ul><li>Added information on how to setup the server for production</li></ul> <ul><li>Added information about use of the Oauth keys</li></ul> | [Link to work](https://its-me-abhishek.github.io/ccsync-docs/) |
 
 ### Weekly Reports
 These are the weekly reports (blogs) that I had submitted to and worked on  CCSync during GSoC period:
