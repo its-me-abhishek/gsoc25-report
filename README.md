@@ -66,6 +66,30 @@ _Objective_: To update documentation according to new setup for production, deve
 |------------------|-------------|--------------|
 | Updated Documentation | <ul><li>Added information on how to setup the server for production</li></ul> <ul><li>Added information about use of the Oauth keys</li></ul> | [Link to work](https://its-me-abhishek.github.io/ccsync-docs/) |
 
+7. Search functionality
+
+_Objective_: To add a search bar that helps in searching across tasks easily.
+
+| Name of the Task | Description | Link to work |
+|------------------|-------------|--------------|
+| Search functionality | <ul><li>Added a search bar using debounce so as to reduce load on browser, and query through tasks based on description, tags or projects</li></ul> | [Link to work](https://github.com/CCExtractor/ccsync/pull/106) |
+
+8. Ability to download secrets
+
+_Objective_: To add an option to download the secrets offline for better sharing/security
+
+| Name of the Task | Description | Link to work |
+|------------------|-------------|--------------|
+| Export secrets | <ul><li>Added an option to download the encryption secret and client id in a text file format using React Blob feature</li></ul> | [Link to work](https://github.com/CCExtractor/ccsync/pull/106) |
+ 
+9. Final documentation
+
+_Objective_: Update the documentation for clarity and better description of setup/project in general
+
+| Name of the Task | Description | Link to work |
+|------------------|-------------|--------------|
+| Update Documentation for Clarity | <ul><li>IImproved grammatical errors, and added more verbose descriptions</li></ul> | [Link to work](https://github.com/its-me-abhishek/ccsync-docs/pull/9) | 
+
 ### Weekly Reports
 These are the weekly reports (blogs) that I had submitted to and worked on  CCSync during GSoC period:
 1. [Community Bonding Period](https://abhishek31.medium.com/community-bonding-period-for-gsoc25-at-ccextractor-17ae178dbccd)
