@@ -88,7 +88,7 @@ _Objective_: Update the documentation for clarity and better description of setu
 
 | Name of the Task | Description | Link to work |
 |------------------|-------------|--------------|
-| Update Documentation for Clarity | <ul><li>IImproved grammatical errors, and added more verbose descriptions</li></ul> | [Link to work](https://github.com/its-me-abhishek/ccsync-docs/pull/9) | 
+| Update Documentation for Clarity | <ul><li>Improved grammatical errors, and added more verbose descriptions</li></ul> | [Link to work](https://github.com/its-me-abhishek/ccsync-docs/pull/9) | 
 
 ### Weekly Reports
 These are the weekly reports (blogs) that I had submitted to and worked on  CCSync during GSoC period:
