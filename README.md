@@ -97,3 +97,5 @@ These are the weekly reports (blogs) that I had submitted to and worked on  CCSy
 3. [Week 2 & 3](https://abhishek31.medium.com/gsoc25-week-2-3-at-ccextractor-b292ab748a66)
 4. [Week 4 & 5](https://abhishek31.medium.com/gsoc25-week-4-5-at-ccextractor-ae9f2f2ec3f7)
 5. [Week 6](https://abhishek31.medium.com/gsoc25-week-6-at-ccextractor-304443679fe2)
+6. [Week 7, 8 & 9](https://abhishek31.medium.com/gsoc25-week-7-8-9-at-ccextractor-76617d15ea86)
+7. [Week 10, 11 & 12](https://abhishek31.medium.com/gsoc25-week-10-11-12-at-ccextractor-0349c7a2878a)
