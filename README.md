@@ -77,9 +77,9 @@ _Objective_: To add a search bar that helps in searching across tasks easily.
 
 8. Ability to download secrets
 
-<img width="1653" height="576" alt="image" src="https://github.com/user-attachments/assets/ea875377-b72e-4b45-959a-b7caac01c09f" />
-
 _Objective_: To add an option to download the secrets offline for better sharing/security
+
+<img width="1653" height="576" alt="image" src="https://github.com/user-attachments/assets/ea875377-b72e-4b45-959a-b7caac01c09f" />
 
 | Name of the Task | Description | Link to work |
 |------------------|-------------|--------------|
