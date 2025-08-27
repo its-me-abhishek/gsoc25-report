@@ -10,7 +10,6 @@ _Mentors: [Nishant Singhal](https://github.com/NishantSinghal19), [Mabud Alam](h
 ## Table of contents
 - [My project work](#my-project-work)
 - [Work Track](#work-track)
-- [Link to work](#link-to-work)
 - [Weekly Reports](#weekly-reports)
 - [Personal Note](#personal-note) 
 
@@ -70,11 +69,15 @@ _Objective_: To update documentation according to new setup for production, deve
 
 _Objective_: To add a search bar that helps in searching across tasks easily.
 
+<img width="1677" height="357" alt="image" src="https://github.com/user-attachments/assets/47d3ee8a-1ab3-4508-8e22-9a7a9380b4ff" />
+
 | Name of the Task | Description | Link to work |
 |------------------|-------------|--------------|
 | Search functionality | <ul><li>Added a search bar using debounce so as to reduce load on browser, and query through tasks based on description, tags or projects</li></ul> | [Link to work](https://github.com/CCExtractor/ccsync/pull/106) |
 
 8. Ability to download secrets
+
+<img width="1653" height="576" alt="image" src="https://github.com/user-attachments/assets/ea875377-b72e-4b45-959a-b7caac01c09f" />
 
 _Objective_: To add an option to download the secrets offline for better sharing/security
 
@@ -99,3 +102,6 @@ These are the weekly reports (blogs) that I had submitted to and worked on  CCSy
 5. [Week 6](https://abhishek31.medium.com/gsoc25-week-6-at-ccextractor-304443679fe2)
 6. [Week 7, 8 & 9](https://abhishek31.medium.com/gsoc25-week-7-8-9-at-ccextractor-76617d15ea86)
 7. [Week 10, 11 & 12](https://abhishek31.medium.com/gsoc25-week-10-11-12-at-ccextractor-0349c7a2878a)
+
+### Personal Note
+Working again with CCExtractor Organisation on this project has been a very great experience. The progress this year was in a direction to make the project easy to setup and use, and we have been able to achieve this as well. For the future, I plan to continue working on the project, and guide any new contributors, as well as maintain the project. Apart from this would be working on more features in a broader scope in order to make the project more useful to the community.
